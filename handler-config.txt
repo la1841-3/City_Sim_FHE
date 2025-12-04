@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\handler-config.txt
+// Generated at: 2025-10-18T08:22:26.525Z
